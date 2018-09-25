@@ -1,0 +1,20 @@
+
+body {
+    margin: 0;
+    background-color: rgba( 176, 200, 221, 0.847 );
+}
+
+.btn-primary {
+    background-color: #385d98;
+    padding: .5em 2em;
+    
+}
+
+.btn-primary:hover {
+    background-color: #d8dbe3;
+    color: #16161d;
+}
+
+.jumbotron {
+    background-color: rgba( 209, 94, 71, 0.847 );
+}
